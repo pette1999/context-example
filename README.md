@@ -1,3 +1,16 @@
+# TODO
+For full credit, your app should implement the following:
+
+[DONE] include a Context component for both the User and the Items
+
+[DONE] have a home page that displays all of the items, their photo, and their price with a button to add to cart
+
+[DONE] on the home page, have a cart icon that displays the total number of items in the cart
+
+[DONE] clicking on the cart icon navigates to the checkout page
+
+- the checkout page shows every current item in the cart, along with a cart total
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
